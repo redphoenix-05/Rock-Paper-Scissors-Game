@@ -44,6 +44,16 @@ img {
     margin-top: 5rem;
 }
 
+.round-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 2rem;
+    font-family: Comic Sans MS;
+    font-size: 1.25rem;
+}
+
 .scoreboard {
     display: flex;
     justify-content: center;
